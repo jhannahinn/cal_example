@@ -1,14 +1,6 @@
-
-
-
 import {createWebHistory, createRouter} from 'vue-router'
-
-import MainPage from "@/views/MainPage.vue"
-
-
+// import MainPage from "@/views/MainPage.vue"
 import HomeCalender from "@/views/HomeCalender.vue"
-
-
 
 
 var routes = [

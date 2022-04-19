@@ -1,2 +1,24 @@
 MainPage.vue
-    > MainHeader + router view + MainFooter
+    > MainHeader + router view (HomeCalendar) + MainFooter
+
+MainFooter.vue
+
+MainHeader.vue
+
+HomeCalendar.vue
+
+<template>
+    > introMainarea
+        > titleArea
+            > pageTitle(Calendar) + pointline
+        > introMaincontent
+            > arrows + 년 + 월
+        > daysTitle
+            > 요일(state.days)
+        > dayscontent
+            > state.startDatePosition
+        > dayscontent
+            > 
+</template>
+
+

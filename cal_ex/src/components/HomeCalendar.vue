@@ -65,10 +65,6 @@ export default {
         // 캘린더에서 움직일 수 있는 날짜
         const minYear = 2000;
         const maxYear = 2030;
-
-        const test = (a) => {
-            alert(a);
-        }
     }
 }
 
